@@ -11,19 +11,15 @@ I'm a Fullstack Developer working in the Javascript Multiverse. I currently perf
 | <img width="16px" src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.jpg" />  `Express` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  `Typescript` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  `MongoDB, Mongoose` | <img width="16px" src="https://lh3.googleusercontent.com/-XvJzhz3pfH0/XjYG_xWkESI/AAAAAAAAJ9c/AYlgAtRknEU2W5fMcFhQoL6rmO8EBtIDQCK8BGAsYHg/s0/2020-02-01.png" />  `REST` |
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/koa/koa-original.svg" />  `Koa` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  `Angular` | <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" />  `DynamoDB` | <img width="16px" src="https://cdn.worldvectorlogo.com/logos/openapi-1.svg" />  `OpenAPI` |
 
+## Stats
 ![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashmudra&show_icons=true&theme=flag-india)
 
-<!--
-**AshMudra/AshMudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The State of Things
+- 🔭 I’m currently working on a secret project
+- 🌱 I’m currently practicing Javascript: The Hard Parts
+- 👯 I’m looking to collaborate on open source projects!
+- 🤔 I’m looking for help with ...finding open source opportunities!
+- 💬 Ask me about partner dancing
+- 📫 How to reach me: ash.b.mudra@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Was just diagnosed with adhd. It's a whole new world, folks.
