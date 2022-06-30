@@ -3,17 +3,11 @@
 [![Linkedin: Ash Mudra](https://img.shields.io/badge/-Ash_Mudra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ash-mudra/)](https://www.linkedin.com/in/ash-mudra/)
 Nice to meet you! I'm Ash, a Fullstack Developer working in the Javascript Multiverse. I currently prefer the backend and nerding out on db schemas. I'm passionate about learning, creating things that didn't exist before, and being more stubborn than my bugs. When not coding, you can find me reading a sci-fi/fantasy book, painting a mural, or taking another dance class. Who else is learing Zouk? 
 
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</div>
-
 <br></br>
-## Some Technologies I Enjoy
+## Technologies I Enjoy
+
+<div><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> </div>
+
 | Data | Backend | Frontend | API |
 | :--- | :--- | :--- | :--- |
 | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  `MySQL` | <img width="16px" src="https://the-guild.dev//blog-assets/nodejs-esm/nodejs_logo.png" />  `NodeJS` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  `React` | <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />  `GraphQL` 
