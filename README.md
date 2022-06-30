@@ -15,11 +15,11 @@ I'm a Fullstack Developer working in the Javascript Multiverse. I currently perf
 ![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashmudra&show_icons=true&theme=flag-india)
 
 ## The State of Things
-- 🔭 I’m currently working on a secret project
-- 🌱 I’m currently practicing Javascript: The Hard Parts
+- 🔭 I’m currently working on a secret project with an incredible team! Will unveil 7/2/22
+- 🌱 I’m currently practicing (always) Javascript: The Hard Parts
 - 👯 I’m looking to collaborate on open source projects!
 - 🤔 I’m looking for help with ...finding open source opportunities!
-- 💬 Ask me about partner dancing
+- 💬 Ask me about partner dancing, acro yoga, or contact improv
 - 📫 How to reach me: ash.b.mudra@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Was just diagnosed with adhd. It's a whole new world, folks.
+- ⚡ Fun fact: I just found out I have adhd. It's a whole new world, folks!
