@@ -28,4 +28,4 @@ Nice to meet you! I'm Ash, a Fullstack Developer with focused experience in the 
 
 <br></br>
 ##
-![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashmudra&show_icons=true&theme=flag-india)
+![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashmudra&show_icons=true&theme=cobalt)
