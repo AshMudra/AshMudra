@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+![banner](images/AM.png)
 
 I'm a Fullstack Developer working in the Javascript Multiverse. I currently perfer the backend, nerding out on db schemas. I'm passionate about learning, creating things that didn't exist before, and being more stubborn than my bugs. When not coding, you can find me reading a sci-fi/fantasy book, painting a mural, or taking another dance class. Who else is learing Zouk?
 
