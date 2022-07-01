@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+![banner](images/AM.png)
 <br></br>
 [![Linkedin: Ash Mudra](https://img.shields.io/badge/-Ash_Mudra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ash-mudra/)](https://www.linkedin.com/in/ash-mudra/)
 Nice to meet you! I'm Ash, a Fullstack Developer with focused experience in JavaScript and React Multiverse. I currently prefer the backend and nerding out on db schemas. I'm passionate about learning, creating things that didn't exist before, and being more stubborn than my bugs. When not coding, you can find me reading a sci-fi/fantasy book, painting a mural, or taking another dance class. Who else is learing Zouk? 
