@@ -1,7 +1,7 @@
 ![banner](images/new_banner.png)
 <br></br>
 [![Linkedin: Ash Mudra](https://img.shields.io/badge/-Ash_Mudra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ash-mudra/)](https://www.linkedin.com/in/ash-mudra/)
-Nice to meet you! I'm Ash, a Fullstack Developer with focused experience in the JavaScript / React Multiverse. I currently prefer the backend and nerding out on db schemas. I'm passionate about learning, creating things that didn't exist before, and being more stubborn than my bugs. When not coding, you can find me reading a sci-fi/fantasy book, painting a mural, or taking another dance class. Who else is learing Zouk? 
+Nice to meet you! I'm Ash, a Fullstack Developer in Portland, OR, US, with focused experience in the JavaScript Multiverse. I'm passionate about backend, databases, and collaborating with great people to add real value to the world. I'm currently getting more into open source and I'm excited to learn as much as I can from the awesome community. I'm a nerd at heart and want to know everything about everything - which means that I know some stuff and about a lot of things lol. When not coding, you can find me reading a sci-fi/fantasy book, painting, or taking another dance class. Anyone learning Zouk?
 
 <br></br>
 ## Technologies I Enjoy
@@ -16,15 +16,15 @@ Nice to meet you! I'm Ash, a Fullstack Developer with focused experience in the 
 
 <br></br>
 ## Let's Be Friends
-- 👂 Check out my calming, no-lyrics playlist I made for coders: [Brain Juice](https://open.spotify.com/playlist/4E9aUH5H21WFJy5deVYZT4?si=edf616c619774ca7)
-- 🔭 I’m currently working on a secret project with an incredible team! Unveiling 7/2/22
-- 🌱 I’m currently learning Python
+- 👂 Check out my no-lyrics playlist I made for coders: [Brain Juice](https://open.spotify.com/playlist/4E9aUH5H21WFJy5deVYZT4?si=edf616c619774ca7)
+- 🔭 I’m currently working on a HackSF Hackathon Project
+- 🌱 I’m currently studying systems design
 - 👯 I’m looking to collaborate on open source projects!
 - 🤔 I’m looking for help with ...finding open source opportunities!
 - 💬 Ask me about partner dancing, acro yoga, or contact improv
-- 📫 How to reach me. I like making new friends and collaborating: ash.b.mudra@gmail.com
+- 📫 How to reach me - I like making new friends and collaborating: ash.b.mudra@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I just found out I have adhd. It's a whole new world, folks!
+- ⚡ Fun fact: I planted some ranunculus flowerblubs in my parents' yard. My dad thought they were weeds and sprayed them with weed killer.
 
 <br></br>
 ##
