@@ -1,7 +1,7 @@
 ![banner](images/new_banner.png)
 <br></br>
 [![Linkedin: Ash Mudra](https://img.shields.io/badge/-Ash_Mudra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ash-mudra/)](https://www.linkedin.com/in/ash-mudra/)
-Nice to meet you! I'm Ash, a Fullstack Developer in Portland, OR, US, with focused experience in the JavaScript Multiverse. I'm passionate about backend, databases, and collaborating with great people to add real value to the world. I'm currently getting more into open source and I'm excited to learn as much as I can from the awesome community. I'm a nerd at heart and want to know everything about everything - which means that I know some stuff and about a lot of things lol. When not coding, you can find me reading a sci-fi/fantasy book, painting, or taking another dance class. Anyone learning Zouk?
+Nice to meet you! I'm a Fullstack Developer in Portland, OR USA, with focused experience in the JavaScript Multiverse. I'm passionate about backend, databases, and collaborating with great people! I'm currently getting more into open source and I'm excited to learn as much as I can from the awesome community. I'm a nerd at heart and want to know everything about everything - which means that I know little to some stuff and about a lot of things lol. If not coding, I'm probably listening to a sci-fi/fantasy book, painting, taking another dance class, or making music. Anyone learning Zouk?
 
 <br></br>
 ## Technologies I Enjoy
